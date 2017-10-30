@@ -1,0 +1,15 @@
+<a href="javascript:void(0)" (click)="showModal()" id="article-file-{{id}}">
+    <img src="/src/images/article.png" alt="article File">
+</a>
+
+<div class="article-modal" *ngIf="showModalWindow" id="article-file-{{id}}">
+    <div class="modal-dialog">
+        <div class="modal-header">
+            <img src="/src/images/article.png" alt="article File" class="article-icon-header pull-left">
+            <h3 class="pull-left">{{articleName}}</h3> <button (click)="hideModal()" class="pull-right">x</button>
+        </div>
+        <div class="modal-body" id="article-pop-{{id}}">
+            <ck-editor name="editor1" [readonly]="readOnly" [(ngModel)]="articleSrc" skin="moono-lisa" lang="en" [fullPage]="true" [config]="ediConfig"></ck-editor>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "shameed",
+    "githubRepoName": "ecpl-article-viewer",
+    "npmModuleName": "ecpl-article-viewer",
+    "moduleGlobal": "ecplArticleViewer",
+    "ngModuleName": "EcplArticleViewerModule",
+    "selectorPrefix": "ecpl",
+    "projectTitle": "Ecpl Article Viewer",
+    "projectDescription": "",
+    "authorName": "Hameed",
+    "packageManager": "npm"
+  }
+}
