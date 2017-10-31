@@ -20,6 +20,7 @@ https://shameed.github.io/ecpl-article-viewer/
 
 ## About
 
+Angular 4 library that shows html content in CK_Editor
 
 
 ## Installation
