@@ -1,6 +1,6 @@
 {
     "name": "ecpl-article-viewer",
-    "version": "0.0.7",
+    "version": "0.1.0",
     "description": "",
     "main": "./bundles/ecpl-article-viewer.umd.js",
     "module": "./index.js",
