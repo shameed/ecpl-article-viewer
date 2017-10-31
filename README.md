@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecpl Article Viewer
 [![Build Status](https://travis-ci.org/shameed/ecpl-article-viewer.svg?branch=master)](https://travis-ci.org/shameed/ecpl-article-viewer)
 [![codecov](https://codecov.io/gh/shameed/ecpl-article-viewer/branch/master/graph/badge.svg)](https://codecov.io/gh/shameed/ecpl-article-viewer)
@@ -88,3 +89,6 @@ npm run release
 ## License
 
 MIT
+=======
+# ecpl-article-viewer
+>>>>>>> 03ee1c0c070b13b10b7c838d1372ebafbc3040eb
