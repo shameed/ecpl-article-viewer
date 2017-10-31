@@ -1,14 +1,14 @@
 {
-  "generator-angular-library": {
-    "githubUsername": "shameed",
-    "githubRepoName": "ecpl-article-viewer",
-    "npmModuleName": "ecpl-article-viewer",
-    "moduleGlobal": "ecplArticleViewer",
-    "ngModuleName": "EcplArticleViewerModule",
-    "selectorPrefix": "ecpl",
-    "projectTitle": "Ecpl Article Viewer",
-    "projectDescription": "",
-    "authorName": "Hameed",
-    "packageManager": "npm"
-  }
+    "generator-angular-library": {
+        "githubUsername": "shameed",
+        "githubRepoName": "ecpl-article-viewer",
+        "npmModuleName": "ecpl-article-viewer",
+        "moduleGlobal": "ecplArticleViewer",
+        "ngModuleName": "EcplArticleViewerModule",
+        "selectorPrefix": "ecpl",
+        "projectTitle": "Ecpl Article Viewer",
+        "projectDescription": "Angular 4 library show Html Content with ck editor",
+        "authorName": "Hameed",
+        "packageManager": "npm"
+    }
 }
